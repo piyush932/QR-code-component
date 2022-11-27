@@ -1,0 +1,45 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+}
+
+.container-fluid{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 290px;
+  height: 500px;
+  align-self: center;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  border-top: 100px;
+}
+
+h1{
+  color: hsl(218, 44%, 22%)
+}
+
+.qr-image{
+  margin: auto;
+  padding-top: 10px;
+  border-radius: 0.625rem;
+  margin: 20px;
+}
+
+h3{
+  width: 250px;
+}
+
+p{
+  color: hsl(220, 15%, 55%)
+}
+
+.paragraph{
+  margin: auto;
+  height: 250px;
+  width: 250px;
+}
